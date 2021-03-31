@@ -14,6 +14,35 @@
 
 ---
 
+## I don't see the apps I want in the App catalog
+
+*Issue:* Applications have moved or disappeared and are not available in the App Catalog:
+
+Ensure your device is properly configured in MaaS360 (Blue icon with two concentric hexagons). 
+
+<center>
+**Devices**
+
+| Device Policy|Users|
+| :------------: | :------------: |
+| iPad Air (Gen 3) | X |
+|OMNI-WW|557 Weather Wing|
+|OMNI-C2|Command and Control|
+|OMNI-DEV|Development use only|
+|MDIT-EFB|Electronic Flight Bag for unclassified enviroments|
+|OMNI-KR|Kessell Run|
+|OMNI-MX|55 MXG|
+|OMNI-HCC|55 WG chaplains|
+|OMNI - Remote Workers|leadership in non-flying position|
+|Default iOS MDM Policy|the default policy with no rights|
+|OMNI-AMOPS|Airfield Management and Operations|
+|OMNI-EFB (CPA)|55 OG aircrew|
+|OMNI-LEX|Android LMR|
+|Default Android MDM Policy|the default policy with no rights|   
+</center>
+
+--- 
+
 ## My Pubs Won’t Sync
 
 [!image](img/Troubleshooting/syncissue.png){: style="height:75%;width:75%"}
